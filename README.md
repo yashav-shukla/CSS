@@ -1,9 +1,15 @@
-<body style="background-color: blue;">
 
-<div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" style="width: 100px;">
+
+<div align="center">
+ 
+  <br />
+  <br />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"  alt="CSS Logo" style="width: 100px;"/>
+
+
+
 </div>
-
 
 <h1 align="center" style="color: orange;">Tutorial</h1>
 
@@ -51,4 +57,3 @@ This project is licensed under the MIT License.
 Happy Learning!
 
 
-</body>
