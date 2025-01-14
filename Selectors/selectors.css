@@ -1,0 +1,87 @@
+
+/*universal selector
+
+*{
+    color: red;
+}
+
+*/
+
+/*------------------------------------------- */
+
+
+/* tag selector 
+h1{
+    color: orange;
+}
+
+p {
+    color: skyblue;
+}
+
+*/
+
+/*------------------------------------------- */
+
+
+/* class selector 
+.heading {
+    color: green;
+    border: 2px solid black;
+}
+
+.row{
+    color: skyblue;
+}
+    */
+
+/*------------------------------------------- */
+
+/* id selector 
+#heading {
+    color: orange;
+}
+
+*/
+
+/*------------------------------------------- */
+
+
+/* id is uniquelly selector and class is all selector */
+
+/*------------------------------------------- */
+
+/*---
+h1{
+    color: rgba(255,180,0,1);
+    border: 2px solid rgb(255,180,0)
+}
+--*/
+
+/*------------------------------------------- */
+
+/*--- rgba - rgb me a lgane pr 0 se 1 ke betwwen transparency badhegi  ---*/
+
+/*------------------------------------------- */
+
+/*--- hex code ---*/
+
+/*---
+h1{
+    color: #d45a1e;
+}
+
+---*/
+
+/*------------------------------------------- */
+
+/*--- hsl code ---*/
+/*---
+h1{
+    color: hsl(34, 100%, 50%);
+}
+
+---*/
+
+/*------------------------------------------- */
+
