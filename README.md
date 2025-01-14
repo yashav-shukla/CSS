@@ -1,6 +1,6 @@
 <body style="background-color: blue;">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" style="display: block; margin-left: auto; margin-right: auto; width: 100px; align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo"  align="center" style="display: block; margin-left: auto; margin-right: auto; width: 100px;">
 
 <h1 align="center" style="color: orange;">Tutorial</h1>
 
